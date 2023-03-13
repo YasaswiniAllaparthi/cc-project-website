@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\page",
+    "\\src\\page\\About",
+    "\\src\\page\\Catagory",
+    "\\src\\page\\CatagoryPage",
+    "\\src\\page\\CheckOut",
+    "\\src\\page\\Profile",
+    "\\src\\page\\Sign-in"
   ],
+  "SelectedNode": "\\src\\page\\About\\About.tsx",
   "PreviewInSolutionExplorer": false
 }
